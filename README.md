@@ -38,8 +38,9 @@ git clone https://github.com/oscarmwangangi/google-authentication.git
 cd 9.5+Authentication+Lv.3
 ```
 ### 3. Set Up Dependencies
+```bash
 npm install
-
+```
 ### 4. Configure the Environment
 Create a .env file in the root directory.
 
